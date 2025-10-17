@@ -9,6 +9,7 @@ In meiner Freizeit entwickle ich Websiten für Unternehmen, mein Zielt ist es je
 ## 17.10.2025
 
 - [ ] SimplSite (meine zukünftige Unternehmensseite) Struktur aufbauen
-- []
+- [ ] Farbpalette auswählen
+- [ ] Referenzen auswählen
 
-✍️ ...
+✍️ Heute habe ich...
