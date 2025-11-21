@@ -13,3 +13,11 @@ In meiner Freizeit entwickle ich Websiten für Unternehmen, mein Zielt ist es je
 - [ ] Referenzen auswählen
 
 ✍️ Heute habe ich...
+
+
+## 21.11.2025
+
+- [x] Verein Statuten Updaten
+- [x] Vereins Website (PASWITZERLAND = Programmers Alliance Switzerland) erstellen
+
+✍️ Heute habe ich an meiner Vereins Statuten gearbeitet und sie fertig geschrieben. Nächster Schritt: Unterschreiben. Die Vereinswebsite ist fast fertig, man kann sie unter https://paswitzerland.netlify.app/ finden, Domain wird bald gekauft. 
